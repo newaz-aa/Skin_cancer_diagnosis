@@ -8,6 +8,16 @@ CNN architecture to classify skin disease on the HAM10000 dataset.
 
 https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/data
 
+
+## Synopsis 
+The notebook contains - 
+
+* Exploratory data analysis (EDA)
+* Data Visualization
+* Data preprocessing
+* CNN architecture
+* Model training, validation, and testing 
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/newaz-aa/Skin_cancer_diagnosis/blob/main/Figures/category_samples.png)
